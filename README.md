@@ -29,7 +29,7 @@ This website hasn't deployed to server yet, but you could ```git clone``` and pl
   ```
 * Then come to the frontend - Vue.js
   ```bash
-    cd QuestionTime/frontend
+    cd MyQuora/frontend
     npm install
   ```
 * Run Vue and Django server in different terminals
